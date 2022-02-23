@@ -125,7 +125,7 @@ int main(int argc, char *argv[])
     for(int i = 0 ; i < arguments.size() ; i++) {
         // The argument we are analysing
         QString argument = arguments.takeFirst();
-        argument.replace("//" , "/");
+        argument.replace("\\" , "/");
 
         // Check if the argument is a file or a directory
         QFileInfo info(argument);
