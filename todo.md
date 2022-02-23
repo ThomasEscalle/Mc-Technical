@@ -1,0 +1,6 @@
+- [] Add a verification for the creation of the scoreboard so that their names isn't bigger than 16 characters (minecraft limitations).
+- [] Make the variables modifications commands parsing.
+- [] Make the conditional variables commands parsing.
+- [] Make the conditional variables commands parsing.
+- [] Make some support for the sounds in the quest (on complete and on selected).
+- [] Fix the memory leak in the NbtDocument class.

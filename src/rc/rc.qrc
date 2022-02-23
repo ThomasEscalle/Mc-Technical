@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/file_prefabs">
+        <file>ReadMe.md</file>
+    </qresource>
+</RCC>
